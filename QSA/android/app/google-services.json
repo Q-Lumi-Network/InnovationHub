@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309543895510",
+    "project_id": "qs-app-5a259",
+    "storage_bucket": "qs-app-5a259.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309543895510:android:1a211dda9d134910992477",
+        "android_client_info": {
+          "package_name": "com.eigentech.qs_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309543895510-bk6t7ms2ve498lemje7c0tvdb8u2g4cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOEeuqA74vf7PiU9lWghb9WVMqz3FbNxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309543895510-bk6t7ms2ve498lemje7c0tvdb8u2g4cr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
